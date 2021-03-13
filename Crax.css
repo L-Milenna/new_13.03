@@ -1,0 +1,33 @@
+body{
+    background-image: url(Rainbow.webp);
+    background-size: cover;
+    font-family: sans-serif;
+    background-attachment: fixed;
+ }
+h1{
+margin-left: 550px;
+color: rgb(255, 0, 221);
+font-weight: 100;
+}
+textarea{
+    font-family: inherit;
+    padding: 3px;
+    resize: fixed;
+ 
+  }
+  input{
+height: 30px;
+  }
+  textarea{
+width: 200px;
+
+  }
+  select{
+height: 30px;
+width: 170px;
+
+  }
+  h3{
+color: rgb(212, 129, 91);
+font-weight: 200;
+  }
